@@ -1,0 +1,3 @@
+station_id,station_name,station_lat,station_lon,event_lat,event_lon,distance_km,distance_deg,azimuth,back_azimuth,delta_time,files
+19,WTMTA,55.6942,-119.24,56.0481,-120.69,98.953,0.889906146729,112.863,294.061,0.01,"['C:/DSA0/test/20181130.012707\\\\RV.WTMTA..HHE.SAC', 'C:/DSA0/test/20181130.012707\\\\RV.WTMTA..HHN.SAC', 'C:/DSA0/test/20181130.012707\\\\RV.WTMTA..HHZ.SAC']"
+23,MG04,55.9914,-120.338,56.0481,-120.69,22.8273,0.205291244693,105.921,286.212,0.01,"['C:/DSA0/test/20181130.012707\\\\XL.MG04..HHE.SAC', 'C:/DSA0/test/20181130.012707\\\\XL.MG04..HHN.SAC', 'C:/DSA0/test/20181130.012707\\\\XL.MG04..HHZ.SAC']"

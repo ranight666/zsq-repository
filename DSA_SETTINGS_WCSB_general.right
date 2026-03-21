@@ -1,0 +1,11 @@
+PARAMETER		VALUE
+dataPath		/home/zsq/DSA/test/20181130.012707
+velModel		montney_all
+arrTimeDiffTole 	0.4
+ccThreshold		0.7
+frequencyFrom		1
+frequencyTo		10
+scanDepthFrom		0
+scanDepthTo		25
+verboseFlag		1
+plotSteps1n2Flag	1
