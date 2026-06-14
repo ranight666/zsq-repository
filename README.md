@@ -34,3 +34,7 @@ Based on the WCSB-adapted version, this version further improves the computation
 |---|---|---|---|
 | `DSA_WCSB_HY.py` | Western Canadian Sedimentary Basin | Real-data focal-depth determination | Adjusted direct-arrival phase extraction and preliminary depth-range selection |
 | `DSA_SX_parallel.py` | Shanxi Graben | Parallelized real-data focal-depth determination | Parallelized station and depth loops in Steps 3 and 4 |
+
+The origin DSA package (Yuan et al., 2020) is available from https://zenodo.org/record/3862737#.YWdeaxDMKys
+
+Yuan, J., Kao, H. and Yu, J. (2020). Depth‐Scanning Algorithm: Accurate, Automatic, and Efficient Determination of Focal Depths for Local and Regional Earthquakes. Journal of Geophysical Research: Solid Earth, 125(7), p.e2020JB019430.
