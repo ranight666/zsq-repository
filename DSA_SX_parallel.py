@@ -8,6 +8,18 @@ Created on Wed Jan 01 00:00:00 2020
     Supervisors: Honn Kao & Jiashun Yu
 myplot.png
 
+Modified by:
+    Hongyu Yu, Shaoqi Zhang(2420566673@qq.com), and Yanjiu Wu(40433155@qq.com)
+    March 2026
+
+Parallelization notes:
+    Based on the WCSB-adapted version, this version further improves the  computational 
+    efficiency of the DSA workflow. The main modification is the parallelization of the 
+    station and depth loops in Step 3 (preliminary focal-depth  determination) and Step 4 
+    (final solution based on travel-time residuals).These changes reduce runtime while 
+    preserving the original depth-scanning logic and output format.
+    
+    
 Algorithm name: 
         Depth-Scanning Algorithm (DSA)
 
